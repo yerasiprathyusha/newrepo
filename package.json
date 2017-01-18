@@ -1,0 +1,17 @@
+{
+  "name": "bookstore",
+  "version": "0.0.0",
+  "description": "simple bookstore app",
+  "main": "ap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*",
+    "mongoose": "*"
+  },
+  "author": "yerasi",
+  "license": "BSD-2-Clause",
+  "devDependencies": {}
+}
